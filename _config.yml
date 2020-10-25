@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@5.0.0
 title: No al toc de queda
+gh-repo: noaltocdequeda/noaltocdequeda.github.io
 social-network-links:
   email: "noaltocdequeda@gmail.com"
-  github: daattali
-  
+  github: noaltocdequeda
