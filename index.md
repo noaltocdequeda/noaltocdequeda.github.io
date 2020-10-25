@@ -4,7 +4,7 @@
 
 Soc una persona adulta, responsable i solidària amb els meus conciutadans, que creu en la llibertat, la justícia i l'equitat com a valors suprems de la societat; i en els drets humans, individuals i col·lectius com la millor de les seves expressions. És per aquest motiu que estic compromès amb el dret a la salut i amb la lluita contra la COVID.
 
-Sóc un/a ciutadà/na que creu en la ciència, en la racionalitat com a eina de progrés i en les polítiques basades en l’evidència. També crec en la necessitat de combatre qualsevol superstició, conspiranoia i creença infundada dels àmbits de presa de decisions que afecten el conjunt de la societat.
+Soc un/a ciutadà/na que creu en la ciència, en la racionalitat com a eina de progrés i en les polítiques basades en l’evidència. També crec en la necessitat de combatre qualsevol superstició, conspiranoia i creença infundada dels àmbits de presa de decisions que afecten el conjunt de la societat.
 
 Per tot això, d'acord amb la meva consciència, estic en desacord i rebutjo el toc de queda declarat per les autoritats, assumint les sancions que se'm vulguin imposar.
 
