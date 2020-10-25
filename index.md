@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Rebutjo el toc de queda
 
-You can use the [editor on GitHub](https://github.com/noaltocdequeda/noaltocdequeda.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Soc una persona adulta, responsable i solidària amb els meus conciutadans, que creu en la llibertat, la justícia i l'equitat com a valors suprems de la societat; i en els drets humans, individuals i col·lectius com la millor de les seves expressions. És per aquest motiu que estic compromès amb el dret a la salut i amb la lluita contra la COVID.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sóc un/a ciutadà/na que creu en la ciència, en la racionalitat com a eina de progrés i en les polítiques basades en l’evidència. També crec en la necessitat de combatre qualsevol superstició, conspiranoia i creença infundada dels àmbits de presa de decisions que afecten el conjunt de la societat.
 
-### Markdown
+Per tot això, d'acord amb la meva consciència, estic en desacord i rebutjo el toc de queda declarat per les autoritats, assumint les sancions que se'm vulguin imposar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+El rebutjo, en primer lloc, perquè d'acord amb la informació disponible, aquesta és una mesura amb una incidència contra el virus molt baixa o directament nul·la, perquè no afecta a les situacions que són principals focus de contagi (espais tancats, amb alta densitat d'ocupació, on no s'hi pot mantenir la distància mínima i on es roman molta estona). I perquè mentre es pren aquesta mesura, se’n descarten unes altres de molt més efectives.
 
-```markdown
-Syntax highlighted code block
+També el rebutjo perquè considero que aquesta mesura obre la porta a tot tipus de vulneracions de drets fonamentals i arbitrarietats autoritàries, sobretot contra ciutadans a qui hauríem de protegir especialment. Des de persones que per motius diversos necessiten ser al carrer a determinades hores per poder subsistir, a d'altres que directament no tenen un sostre sota el qual passar la nit. Des de conciutadans que viuen de l'economia informal i no poden justificar la seva presència al carrer, a gent per a qui casa seva no és un espai segur.
 
-# Header 1
-## Header 2
-### Header 3
+I el rebutjo, per últim, perquè crec en un ús responsable de la llibertat que té cada persona per decidir sobre la seva pròpia mobilitat i comportament, i perquè entenc que cap autoritat deu estar per sobre dels ciutadans ni pot imposar una limitació dels seus drets més elementals sense justificació.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noaltocdequeda/noaltocdequeda.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Comparteix aquest text si estàs d’acord.
