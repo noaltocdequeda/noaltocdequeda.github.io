@@ -1,3 +1,7 @@
+---
+title: 
+---
+
 # Rebutjo el toc de queda 
 
 **Comparteix-ho si hi estàs d'acord:** [Facebook](https://facebook.com/sharer.php?display=popup&u=https%3A%2F%2Fnoaltocdequeda.github.io%2F) · [Twitter](https://twitter.com/intent/tweet?text=Rebutjo%20el%20toc%20de%20queda%20&url=https%3A%2F%2Fnoaltocdequeda.github.io%2F) · [WhatsApp](https://wa.me/?text=https%3A%2F%2Fnoaltocdequeda.github.io%2F) · [Telegram](https://telegram.me/share/url?url=https%3A%2F%2Fnoaltocdequeda.github.io%2F)
