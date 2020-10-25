@@ -1,3 +1,5 @@
+# Rebutjo el toc de queda 
+
 **Comparteix-ho si hi estàs d'acord:** [Facebook](https://facebook.com/sharer.php?display=popup&u=https%3A%2F%2Fnoaltocdequeda.github.io%2F) · [Twitter](https://twitter.com/intent/tweet?text=Rebutjo%20el%20toc%20de%20queda%20&url=https%3A%2F%2Fnoaltocdequeda.github.io%2F) · [WhatsApp](https://wa.me/?text=https%3A%2F%2Fnoaltocdequeda.github.io%2F) · [Telegram](https://telegram.me/share/url?url=https%3A%2F%2Fnoaltocdequeda.github.io%2F)
 
 Soc una persona adulta, responsable i solidària amb els meus conciutadans, que creu en la llibertat, la justícia i l'equitat com a valors suprems de la societat; i en els drets humans, individuals i col·lectius com la millor de les seves expressions. És per aquest motiu que estic compromès amb el dret a la salut i amb la lluita contra la COVID.
