@@ -1,5 +1,7 @@
 ## Rebutjo el toc de queda
 
+**Comparteix-ho si hi estàs d'acord:** Facebook · Twitter · WhatsApp · [Telegram](https://telegram.me/share/url?url=https%3A%2F%2Fnoaltocdequeda.github.io%2F)
+
 Soc una persona adulta, responsable i solidària amb els meus conciutadans, que creu en la llibertat, la justícia i l'equitat com a valors suprems de la societat; i en els drets humans, individuals i col·lectius com la millor de les seves expressions. És per aquest motiu que estic compromès amb el dret a la salut i amb la lluita contra la COVID.
 
 Sóc un/a ciutadà/na que creu en la ciència, en la racionalitat com a eina de progrés i en les polítiques basades en l’evidència. També crec en la necessitat de combatre qualsevol superstició, conspiranoia i creença infundada dels àmbits de presa de decisions que afecten el conjunt de la societat.
@@ -12,4 +14,9 @@ També el rebutjo perquè considero que aquesta mesura obre la porta a tot tipus
 
 I el rebutjo, per últim, perquè crec en un ús responsable de la llibertat que té cada persona per decidir sobre la seva pròpia mobilitat i comportament, i perquè entenc que cap autoritat deu estar per sobre dels ciutadans ni pot imposar una limitació dels seus drets més elementals sense justificació.
 
-Comparteix aquest text si estàs d’acord.
+Comparteix aquest text si hi estàs d’acord:
+
+* Facebook
+* Twitter
+* WhatsApp
+* Telegram
